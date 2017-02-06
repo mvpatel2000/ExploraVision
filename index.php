@@ -40,7 +40,7 @@
             <div class="mdl-layout__header-row portfolio-logo-row"> 
                 <span class="mdl-layout__title">
                     <div class="portfolio-logo"></div>
-                    <span class="mdl-layout__title">Insert Project Title Here</span>
+                    <span class="mdl-layout__title">Nanoparticle Prion Treatments</span>
                 </span>
             </div>
             <!-- Navigation -->
