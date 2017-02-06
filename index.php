@@ -75,7 +75,7 @@
                     <!-- Fully horizontal picture -->
                     <div class="mdl-card__media">
                         <!-- Add new image under images folder and update src to have new name. USE JPG. -->
-                        <img class="article-image" src="images/cover-00.jpg" border="0" alt="">
+                        <img class="article-image" src="images/cover-00.png" border="0" alt="">
                     </div>
 
                     <!-- Image Caption -->
