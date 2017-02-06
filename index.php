@@ -75,14 +75,13 @@
                     <!-- Fully horizontal picture -->
                     <div class="mdl-card__media">
                         <!-- Add new image under images folder and update src to have new name. USE JPG. -->
-                        <img class="article-image" src="images/portfolio-example-01.jpg" border="0" alt="">
+                        <img class="article-image" src="images/cover-00.jpg" border="0" alt="">
                     </div>
 
                     <!-- Image Caption -->
                     <div class="mdl-card__supporting-text">
                         <!-- The <strong>  turns the text bold -->
-                        <strong>Includes</strong> 
-                        <span>Design, UX and Frontend Development</span>
+                        <span>https://phys.org/news/2016-05-powering-nanotechnology-world-smallest.html</span>
                     </div>
 
                     <!-- Main Stuff -->
