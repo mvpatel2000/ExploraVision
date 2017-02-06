@@ -94,45 +94,35 @@
 
                         <!-- Start Paragraph Set -->
                         <!-- Title -->
-                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Introduction</h3>
+                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Prion Diseases</h3>
                         <!-- Paragraph -->
                         <div class="mdl-cell mdl-cell--6-col mdl-card__supporting-text no-padding">
                             <!-- Add paragraph in between the ps. -->
                             <p>
-                                Excepteur reprehenderit sint exercitation ipsum consequat qui sit id velit elit. Velit anim eiusmod labore sit amet. Voluptate voluptate irure occaecat deserunt incididunt esse in. Sunt velit aliquip sunt elit ex nulla reprehenderit qui ut eiusmod ipsum do. Duis veniam reprehenderit laborum occaecat id proident nulla veniam. Duis enim deserunt voluptate aute veniam sint pariatur exercitation. Irure mollit est sit labore est deserunt pariatur duis aute laboris cupidatat. Consectetur consequat esse est sit veniam adipisicing ipsum enim irure.
+                                Prion diseases are a type of neurodegenerative diseases caused by a mutated prion protein (PrP) that are 100% fatal and affect one in every one million people. No successful cures for the disease currently exist and developing technology is inefficient and impractical.
                             </p>
                         </div>
                         <!-- Associated image -->
                         <div class="mdl-cell mdl-cell--6-col">
                             <!-- Add image in images folder and then update the name in src. USE JPG. -->
-                            <img class="article-image" src=" images/portfolio-example-02.jpg" border="0" alt="">
+                            <img class="article-image" src=" images/cover-01.jpg" border="0" alt="">
+                            <div class="mdl-card__supporting-text">
+                                <span>http://dev.rodpub.com/images/133/864_main.jpg</span>
+                            </div>
                         </div>
                         <!-- End Paragraph Set -->
 
-
-                        <!-- Additional samples -->
-                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Initial Ideas</h3>
-                        <div class="mdl-cell mdl-cell--6-col">
-                            <img class="article-image" src=" images/portfolio-example-03.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-cell mdl-cell--6-col mdl-card__supporting-text no-padding ">
+                         <!-- Start Paragraph Set -->
+                        <!-- Title -->
+                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">The Cure</h3>
+                        <!-- Paragraph -->
+                        <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding">
+                            <!-- Add paragraph in between the ps. -->
                             <p>
-                                Excepteur reprehenderit sint exercitation ipsum consequat qui sit id velit elit. Velit anim eiusmod labore sit amet. Voluptate voluptate irure occaecat deserunt incididunt esse in. Sunt velit aliquip sunt elit ex nulla reprehenderit qui ut eiusmod ipsum do. Duis veniam reprehenderit laborum occaecat id proident nulla veniam. Duis enim deserunt voluptate aute veniam sint pariatur exercitation. Irure mollit est sit labore est deserunt pariatur duis aute laboris cupidatat. Consectetur consequat esse est sit veniam adipisicing ipsum enim irure.
+                                Our vision is to use a highly specific nanoparticle system to target and degrade mutant PrP removing the disease from the human body and preventing its spread. This system relies upon immunoprecipitation with use of nanobodies to determine which proteins to target and the degradation through serine protease. The nanoparticle system will be made with quantum dots as fluorescent probes to tag prions for termination by peroxisomes. Furthermore, a neural dust implants, tiny ultrasonic devices, will be implemented to detect nerve activity and monitor progress of our potential treatment. Our experimental design is both feasible and inexpensive, pointing to the possibility of effective treatment to this deleterious disease.
                             </p>
                         </div>
-
-                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Final Concept</h3>
-                        <div class="mdl-cell mdl-cell--6-col">
-                            <img class="article-image" src=" images/portfolio-example-05.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-cell mdl-cell--6-col">
-                            <img class="article-image" src=" images/portfolio-example-06.jpg" border="0" alt="">
-                        </div>
-                        <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding ">
-                            <p>
-                                Excepteur reprehenderit sint exercitation ipsum consequat qui sit id velit elit. Velit anim eiusmod labore sit amet. Voluptate voluptate irure occaecat deserunt incididunt esse in. Sunt velit aliquip sunt elit ex nulla reprehenderit qui ut eiusmod ipsum do. Duis veniam reprehenderit laborum occaecat id proident nulla veniam. Duis enim deserunt voluptate aute veniam sint pariatur exercitation. Irure mollit est sit labore est deserunt pariatur duis aute laboris cupidatat. Consectetur consequat esse est sit veniam adipisicing ipsum enim irure.
-                            </p>
-                        </div>
+                        <!-- End Paragraph Set -->
                     </div>
                     <!-- End Main -->
                 </div>
